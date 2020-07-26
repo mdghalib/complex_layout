@@ -1,0 +1,17 @@
+.header, .hero {
+	background-color: #99ddff;
+	margin-bottom: 5px;
+
+}
+
+.box{
+	min-height: 80px;
+	background-color: #ff80d5;
+	margin-bottom: 5px;
+	font-size: 30px;
+	color: white;
+}
+
+.red{
+	background-color: red;
+}
